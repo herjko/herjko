@@ -1,5 +1,5 @@
 
-# Olá, sou um aluno do curso de informática! 👋
+# Olá, sou um aluno de curso técnico de informática! 👋
 
 ### Sobre mim
 
